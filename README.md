@@ -11,7 +11,7 @@
 
 - **Software Development Engineer @ alfaTKG** (2024–present): AI chatbot and scheduling systems that automate about 70% of customer queries, and a full-stack suite for sheet-metal manufacturing with real-time monitoring and analytics.
 - **Learning automotive software**: digging into [openpilot](https://github.com/commaai/openpilot) and [opendbc](https://github.com/commaai/opendbc) to decode and understand vehicle CAN buses.
-- **Building [The Private Ledger](https://github.com/srivatsavsurya/penny-parse)**: a private, on-device money tracker that turns bank and UPI SMS into a categorized ledger.
+- **Building [The Private Ledger](https://github.com/srivatsavsurya/penny-parse)**: an Android money tracker that turns bank and UPI SMS into a categorized ledger, stored on the device.
 
 ### Featured projects
 
